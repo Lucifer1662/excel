@@ -1,0 +1,1 @@
+echo "/usr/include/c++/10/bits/unordered_set.h:222:28: error: use of deleted function "
